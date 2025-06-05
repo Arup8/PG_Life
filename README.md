@@ -50,7 +50,7 @@ PGLife/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Arup8/PG_Life.git
 cd PGLife
 ```
 
